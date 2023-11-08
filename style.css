@@ -1,0 +1,213 @@
+body{
+    margin: 0;
+
+    
+}
+.navbar{
+    width: 100%;
+    height: 80px;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    font-size: small;
+    position: fixed;
+    z-index: 9;
+    
+
+}
+.viewp
+{
+margin-left: 50px;
+color: white;
+font-size: x-small;
+font-weight: 900;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+cursor: pointer;
+
+}
+.drink
+{
+margin-left: 20px;
+color: white;
+font-size: x-small;
+cursor: pointer;
+font-weight: 900;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.contact
+{
+margin-left: 20px;
+color: white;
+font-size: x-small;
+font-weight: 900;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+cursor: pointer;
+
+}
+.buy
+{
+    margin-left: 1000px;
+    color: white;
+    font-size: xx-small;
+    font-weight: 900;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border:1px solid white;
+    border-radius: 90px;
+
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 15px;
+    cursor: pointer;
+    
+
+
+}
+.buy:hover{
+
+    background-color:white ;
+    color: blue;
+
+}
+.image1
+{
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.vedio-div{
+
+    
+    padding-bottom: 0px;
+
+}
+.vedio1{
+    width: 100%;
+}
+
+.thirdsection{
+    background-color: black;
+    width: 100%;
+    height: 250px;
+    padding: 0px;
+   
+    margin-top: -4px;
+   
+
+
+}.one{
+    font-size: 60px;
+    font-weight: 900;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+    color: white;
+    
+
+}
+.two
+{    color:white;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 42px;
+    font-weight: bolder;
+    font-style: initial;
+    
+}.three
+{
+  width:350px;
+  height:50px;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color:white;
+  font-size: 35px;
+  font-weight: 900;
+   background-color:blue;
+   margin: auto;
+   padding-left: 5px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   padding-right: 5px;
+   margin-top: 20px;
+  
+}.image2
+{
+   width: 100%;
+   height: 800px;
+}.vedio2
+{
+    width: 100%;
+    height: 100%;
+    margin: -4px;
+}
+.page5
+{
+    font-size: 42px;
+    background-color: black;
+    color: blue;
+    text-align: center;
+    margin: 0;
+    margin-top: -52px;
+    padding-top: 30px;
+    width: 100%;
+    height: 450px;
+}
+
+.page6
+{ 
+    margin: auto;
+    width:90%;
+    height: 250px;
+    display: flex;
+    
+    border: 3px solid blue;
+    font-family: fantasy;
+    cursor: pointer;
+}
+.stayonpulse{
+    font-family: Sofia Pro Regular, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 35px;
+    font-weight: 900;
+}.page7{
+    background-color: blue;
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+.imagelast
+{
+width: 75px;
+height: 75px;
+margin-left: 30px;
+margin-bottom: 50px;
+cursor: pointer;
+margin-top: 45px
+}.text-div{
+    color: white;
+    display: flex;
+    margin-top: 40px;
+    margin-left: 250px;
+    font-size: small;
+    font-weight: 900;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    cursor: pointer;
+}
+li{
+    list-style: none;
+}
+.icons{
+
+    margin-left:350px;
+    margin-top: 20px;
+    display:flex;
+    gap: 20px;
+    color: white;
+    padding-left: 50px;
+    cursor: pointer;
+}
+.icons img{
+    width: 25px;
+    height: 25px;
+}
